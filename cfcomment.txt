@@ -1,0 +1,10 @@
+// ctrl+shift+x  <!--- CF COMMENT --->
+{
+    "keys": ["ctrl+shift+x"], "command": "insert_snippet",
+    "args": { "contents": "<!--- ${1:$SELECTION} --->" },
+    "context":
+[
+    {"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true },
+    {"key": "selector", "operator": "not_equal", "operand": "source.cfscript.embedded.cfml,source.sql.embedded.cfml", "match_all": false }
+]
+}	
