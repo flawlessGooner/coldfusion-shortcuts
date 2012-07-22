@@ -17,3 +17,5 @@ Plugin exists of several .txt files, each of one includes a command to store a k
 
 CHANGELOG
 --------------------
+
+2012 / 07 / 21 - added a shortcut for CFDUMP
