@@ -19,4 +19,5 @@ CHANGELOG
 --------------------
 
 2012 / 07 / 21 - added a shortcut for cfcomment. Still working on a solution for uncommenting selected text.
+
 2012 / 07 / 21 - added a shortcut for cfdump and writeDump. The shortcut is CTRL + D.
